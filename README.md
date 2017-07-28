@@ -18,7 +18,7 @@ Sponsors pay to place a simple, unobtrusive message. You add placeholder to your
 
 On CodeSponsor, sponsors and sponsor messages have to meet some tough criteria:
 
-* Sponsors must adhere to the code of [Ethical Advertising]()
+* Sponsors must adhere to the code of [Ethical Advertising](#what-is-ethical-advertising)
 * Messages offering products or services must be relevant to the developer community
 * Sponsors must accept that **no user metrics will be collected or shared**
 
