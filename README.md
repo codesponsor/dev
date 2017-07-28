@@ -2,6 +2,10 @@
 
 Our mission is to help sustain open source code by connecting sponsors with open-source projects.
 
+## How can we help you?
+
+You put a lot of time and effort into your open source projects, and people rely on them to do their jobs. It's important that your work is sustainable, and we help you fund it.
+
 ## Quick Start
 
 To start getting paid on your open source repositories:
@@ -42,10 +46,6 @@ Here's an example of a sponsored link:
 <a href="https://app.codesponsor.io/link/Z24Ypyn8iC1Q4i6uCwNyLW3r/codesponsor/core-values"><img src="https://app.codesponsor.io/embed/Z24Ypyn8iC1Q4i6uCwNyLW3r/codesponsor/core-values.svg" alt="Sponsor" style="width: 873px; height: 67px;"/></a>
 
 The content of the "sponsored by" link will be approved by developers and must be relevant to the developer audience.
-
-## How can we help developers?
-
-You put a lot of time and effort into your open source projects, and people rely on them to do their jobs. It's important that your work is sustainable, and we help you fund it.
 
 ## More information
 
