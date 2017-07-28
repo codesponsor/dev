@@ -20,7 +20,7 @@ To start getting paid on your open source repositories:
 
 ## How does the sponsorship work?
 
-Sponsors pay to place a simple, unobtrusive message. You add placeholder to your project's README. We show these simple, relevant messages other developers who view your README. You gets paid. That's it.
+Sponsors pay to place a simple, unobtrusive message. You add placeholder to your project's README. We show these simple, relevant messages other developers who view your README. You get paid. That's it.
 
 On CodeSponsor, sponsors and sponsor messages have to meet some tough criteria:
 
