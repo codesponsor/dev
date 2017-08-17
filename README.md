@@ -1,5 +1,3 @@
-[![Gitter](https://img.shields.io/gitter/room/codesponsor/dev.svg)](https://gitter.im/codesponsor-dev/Lobby)
-
 # Code Sponsor Development Funding Program
 
 Our mission is to help sustain open source code by connecting sponsors with open-source projects.
