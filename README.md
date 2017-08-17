@@ -1,3 +1,5 @@
+[![Slack](https://img.shields.io/badge/slack-online-green.svg)](https://slack.codesponsor.io)
+
 # Code Sponsor Development Funding Program
 
 Our mission is to help sustain open source code by connecting sponsors with open-source projects.
