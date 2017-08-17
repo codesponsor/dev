@@ -53,7 +53,7 @@ The content of the "sponsored by" link will be approved by developers and must b
 
 If you have more thoughts on sustaining open source, we'd love to talk!
 
-Slack: https://slackin-wevwqjvlkd.now.sh/
+Slack: https://slack.codesponsor.io
 
 Mailing List: http://eepurl.com/cVELcz
 
